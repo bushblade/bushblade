@@ -42,7 +42,7 @@ Also check out [Full-Screen-Touch-Slider](https://github.com/bushblade/Full-Scre
 
 | | |
 | --- | --- |
-| **OS** | CachyOS with [Niri](https://github.com/YaLTeR/niri) + Dank Material Shell (Manjaro on the laptop) |
+| **OS** | CachyOS with [Niri](https://github.com/YaLTeR/niri) + Dank Material Shell
 | **Editor** | Neovim — config [here](https://github.com/bushblade/nvim) |
 | **Terminal** | Ghostty + Fish + Starship + Tmux |
 | **CLI tools** | LazyGit · Yazi · OpenCode · herdr |
